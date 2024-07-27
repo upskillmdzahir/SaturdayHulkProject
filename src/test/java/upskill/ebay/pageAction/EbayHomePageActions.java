@@ -32,6 +32,16 @@ public class EbayHomePageActions {
 		EbayHomePageLocatorsObj.txtbxSearch.sendKeys(items);
 		EbayHomePageLocatorsObj.btnSearch.click();
 	}
+	
+	public void mouseHoverEbay() {
+		
+		
+	}
+	
+	public void clickSummary() {
+		
+		
+	}
 }
 
 
